@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 git2.txt dfas
+=======
+git2.txt change
+>>>>>>> c66a3cea2a862f077a27c3a3f912a92add815ba9
+
+git.txt dfas
+
+git.txt dfas
